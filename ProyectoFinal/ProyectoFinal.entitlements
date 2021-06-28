@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>$(AppIdentifierPrefix)Mac09.com.ProyectoFinal</string>
+	</array>
+	<key>Item 0</key>
+	<string>$(AppIdentifierPrefix)Mac09.com.ProyectoFinal</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string></string>
+	</array>
+</dict>
+</plist>
